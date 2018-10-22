@@ -1,0 +1,9 @@
+﻿  Moc'ing FZZLautoscript.h...
+  Rcc'ing FZZLautoscript.qrc...
+  Uic'ing FZZLautoscript.ui...
+  RCC: Warning: No resources in 'C:\Users\cky\Documents\GitHub\FZZLautoscript\FZZLautoscript\FZZLautoscript.qrc'.
+  moc_FZZLautoscript.cpp
+  qrc_FZZLautoscript.cpp
+  FZZLautoscript.cpp
+  main.cpp
+  FZZLautoscript.vcxproj -> C:\Users\cky\Documents\GitHub\FZZLautoscript\x64\Debug\FZZLautoscript.exe
